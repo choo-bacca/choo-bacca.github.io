@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Choo-bacca"
-  avatar           : ""/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Resistence fighter."
   location         : "Planet Kashyyyk"
   email            :

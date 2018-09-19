@@ -5,6 +5,6 @@ permalink: /pertopic/
 title: "Per Topic"
 author_profile: true
 header:
-  image: "/images/background2.jpg"
+  image: "/images/desk.jpg"
 
 ---

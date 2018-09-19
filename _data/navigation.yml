@@ -5,7 +5,7 @@ main:
   - title: "Resume"
     url: /resume/
   - title: "Per Topic"
-    url: /PerTopic/
+    url: /pertopic/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

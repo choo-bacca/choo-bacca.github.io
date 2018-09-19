@@ -288,8 +288,6 @@ defaults:
       related: true
 
 # Pages
-defaults:
-  # _posts
   - scope:
       path: ""
       type: posts

@@ -2,9 +2,9 @@
 title: "Resume"
 permalink: /resume/
 header:
-  image: "/images/background3.jpg"
+  image: "/images/desk.jpg"
 ---
- fuck you
+
 
 # [Choo-Bacca]
 **[Planet Kashyyyk] | [Southwestern quadrant of the galaxy] | [G5-623 ]**

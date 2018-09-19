@@ -1,3 +1,11 @@
+---
+title: "Resume"
+permalink: /resume/
+header:
+  image "/images/desk.jpg"
+---
+
+
 # [Choo-Bacca]
 **[Planet Kashyyyk] | [Southwestern quadrant of the galaxy] | [G5-623 ]**
 

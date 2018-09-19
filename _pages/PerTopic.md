@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-permalink: /Pertopic/
+permalink: /pertopic/
 title: "Per Topic"
 author_profile: true
 header:

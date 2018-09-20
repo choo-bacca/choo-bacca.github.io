@@ -2,7 +2,7 @@
 title: "Resume"
 permalink: /resume/
 header:
-  image: "/images/desk.jpg"
+  image: "/images/background3.jpg"
 ---
 
 

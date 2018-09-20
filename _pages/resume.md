@@ -23,7 +23,8 @@ I possess exceptional skills in piloting as well as mechanic repairs, from my ex
 -	 Smuggler
 -	Hairdresser
 
-**Experience**
+# Experience
+
 **[RESISTANCE FIGHTER] | [GALAXY |**
 -	Participation in the Clone Wars, the Galactic Civil War, and the conflict between the First Order and the Resistance.
 

@@ -1,6 +1,9 @@
 ---
+layout: single
+classes: wide
 title: "Resume"
 permalink: /resume/
+author_profile: true
 header:
   image: "/images/background3.jpg"
 ---

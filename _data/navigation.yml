@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
-  - title: "Per Topic"
-    url: /pertopic/
+  - title: "Creation"
+    url: /creation/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

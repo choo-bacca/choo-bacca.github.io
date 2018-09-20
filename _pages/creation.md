@@ -1,8 +1,8 @@
 ---
 layout: single
 classes: wide
-permalink: /pertopic/
-title: "Per Topic"
+permalink: /creation/
+title: "Creation"
 author_profile: true
 header:
   image: "/images/background2.jpg"
